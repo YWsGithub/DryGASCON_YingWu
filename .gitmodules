@@ -1,3 +1,6 @@
 [submodule "OPT-LE32"]
 	path = OPT-LE32
 	url = https://github.com/YWsGithub/DryGASCON_YingWu
+[submodule "opt-le32"]
+	path = opt-le32
+	url = https://github.com/YWsGithub/DryGASCON_yingwu.git
